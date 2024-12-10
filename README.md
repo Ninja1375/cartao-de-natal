@@ -60,11 +60,11 @@ Ao abrir o cartão, é exibida a seguinte mensagem:
 
 **Você pode personalizar o cartão alterando:**
 
-O texto da mensagem no arquivo ```index.html```.
+- O texto da mensagem no arquivo ```index.html```.
 
-As cores e estilos no arquivo ```style.css```.
+- As cores e estilos no arquivo ```style.css```.
 
-A lógica interativa no arquivo ```script.js```.
+-A lógica interativa no arquivo ```script.js```.
 
 ---
 
