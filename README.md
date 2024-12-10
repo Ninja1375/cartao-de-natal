@@ -26,9 +26,9 @@ Um projeto interativo para criar um cartão de Natal animado, com flocos de neve
    ```bash
    git clone https://github.com/Ninja1375/cartao-de-natal.git
    ```
-   bbb
-Abra o arquivo index.html em qualquer navegador moderno.
-Estrutura do Projeto
+2. Abra o arquivo ```index.html``` em qualquer navegador moderno.
+
+## Estrutura do Projeto
 O projeto contém os seguintes arquivos:
 
 index.html: Contém a estrutura HTML do cartão.
