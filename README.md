@@ -34,21 +34,21 @@ Um projeto interativo para criar um cartão de Natal animado, com flocos de neve
 
 **O projeto contém os seguintes arquivos:**
 
-```index.html```: Contém a estrutura HTML do cartão.
+- ```index.html```: Contém a estrutura HTML do cartão.
 
-```style.css```: Inclui as regras de estilo, animações e design responsivo.
+- ```style.css```: Inclui as regras de estilo, animações e design responsivo.
 
-```script.js```: Fornece a interatividade, como abrir o cartão e ajustar o layout com base na altura da janela.
+- ```script.js```: Fornece a interatividade, como abrir o cartão e ajustar o layout com base na altura da janela.
 
 ---
 
 ## Demonstração
 
-**Ao abrir o cartão, é exibida a seguinte mensagem:**
+Ao abrir o cartão, é exibida a seguinte mensagem:
 
-"Querido Seguidor, desejo um Natal Abençoado, repleto de Paz, Harmonia e muito Amor."
+>**"Querido Seguidor, desejo um Natal Abençoado, repleto de Paz, Harmonia e muito Amor."**
 
-Assinado por: Antônio Nascimento.
+**Assinado por:** Antônio Nascimento.
 
 ---
 
