@@ -14,8 +14,8 @@ Um projeto interativo para criar um cartão de Natal animado, com flocos de neve
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Estrutura do projeto.
-- **CSS3**: Estilização, animações e responsividade.
+- **HTML**: Estrutura do projeto.
+- **CSS**: Estilização, animações e responsividade.
 - **JavaScript**: Controle da interação do usuário, como abrir o cartão.
 
 ---
@@ -24,4 +24,6 @@ Um projeto interativo para criar um cartão de Natal animado, com flocos de neve
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cartao-de-natal.git
+   git clone https://github.com/Ninja1375/cartao-de-natal.git
+   ```
+   bbb
