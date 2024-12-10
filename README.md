@@ -14,6 +14,8 @@ Um projeto interativo para criar um cartão de Natal animado, com flocos de neve
 
 ## Tecnologias Utilizadas
 
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
 - **HTML**: Estrutura do projeto.
 - **CSS**: Estilização, animações e responsividade.
 - **JavaScript**: Controle da interação do usuário, como abrir o cartão.
@@ -88,6 +90,8 @@ git commit -m "Minha sugestão de melhoria"
 git push origin minha-melhoria
 ```
 5. Abra um **pull request** para revisão.
+
+---
 
 ## Apoie-me:
 
