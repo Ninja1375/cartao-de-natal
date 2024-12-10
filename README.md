@@ -53,7 +53,8 @@ Ao abrir o cartão, é exibida a seguinte mensagem:
 ---
 
 ## Captura de Tela
-
+>
+>
 ---
 
 ## Personalização
@@ -64,7 +65,7 @@ Ao abrir o cartão, é exibida a seguinte mensagem:
 
 - As cores e estilos no arquivo ```style.css```.
 
--A lógica interativa no arquivo ```script.js```.
+- A lógica interativa no arquivo ```script.js```.
 
 ---
 
@@ -72,17 +73,18 @@ Ao abrir o cartão, é exibida a seguinte mensagem:
 
 Contribuições são bem-vindas! Se você tiver ideias para melhorar este projeto, siga estas etapas:
 
-Faça um fork do repositório.
-Crie um branch para suas alterações:
-bash
-Copiar código
+1. Faça um **fork** do repositório.
+
+2. Crie um branch para suas alterações:
+```bash
 git checkout -b minha-melhoria
-Faça as alterações e commit:
-bash
-Copiar código
+```
+3. Faça as alterações e commit:
+```bash
 git commit -m "Minha sugestão de melhoria"
-Envie para o branch principal:
-bash
-Copiar código
+```
+4. Envie para o branch principal:
+```bash
 git push origin minha-melhoria
-Abra um pull request para revisão.
+```
+5. Abra um **pull** request para revisão.
